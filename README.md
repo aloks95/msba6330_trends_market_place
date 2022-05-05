@@ -14,7 +14,7 @@ Amazon Transcribe is an AWS service that makes it easy for customers to convert 
 
 ### How does Amazon Transcribe interact with other AWS products?
 
-![image](https://github.umn.edu/sunda186/msba6330_trends_market_place/blob/master/architecture.png)
+![image](https://github.com/aloks95/msba6330_trends_market_place/blob/main/architecture.png)
 
 ### Use Case
 1. Call Center Analytics
@@ -36,7 +36,7 @@ In the code provided, we have already used first way to set up authentication cr
 
 #### Results
 Using the pipeline (S3 -> Transcribe -> Comprehend), we get the sentiments of each customers. Using Amazon QuickSight, we create a dashboard to visualize the result. For business use, this pipeline can be set to run every day to automatically provide customer emotion to the company.
-![image](https://github.umn.edu/sunda186/msba6330_trends_market_place/blob/master/Dashboard.png)
+![image](https://github.com/aloks95/msba6330_trends_market_place/blob/main/Dashboard.png)
 
 
 ## Video Presentation
